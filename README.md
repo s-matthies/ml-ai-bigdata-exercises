@@ -26,3 +26,14 @@ This exercise focuses on exploratory data analysis (EDA) to understand a dataset
 
 - Tools: Jupyter Notebook, Pandas, Matplotlib, Seaborn  
 - Content: Data preprocessing, visualization of distributions, relationships, and outliers
+
+### Upcoming Exercises
+
+The following exercises are currently under development and will be added soon:
+
+- 04-classification
+- 05-regression
+- 06-boosting
+
+
+
