@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Umgebungen
+venv/
+env/
+
+# Daten (optional, falls zu groß oder privat)
+*.csv
+*.xlsx
+*.json
+
+# MacOS Systemdateien
+.DS_Store
+
+# Logdateien
+*.log
+
